@@ -52,7 +52,7 @@ const experiencias: Experience[] = [
       'Trabalhei no desenvolvimento de pipelines de CI/CD no Github Actions com Nuke e Shell Scripting para deploy de aplicações no Aks(Serviço de Kubernetes do Azure).',
       'Também fui responsável pela sustentação e desenvolvimento de novas funcionalidades em plataforma legada desenvolvida em PHP/Laravel.',
       'Menssageria com RabbitMQ e MassTransit.',
-      'Implementação Api Gateway com Ocelot',
+      'Implementação Api Gateway com Ocelot.',
       'Testes unitários e de integração com XUnit.'
     ],
     skillsList: [
