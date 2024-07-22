@@ -74,7 +74,7 @@ const experiencias: Experience[] = [
     date: 'ago de 2020 - nov de 2021',
     location: 'Remoto',
     description: [
-      'Fui responsável responsável pelo desenvolvimento de novas funcionalidades e manutenção de plataforma proprietária de gerenciamento e venda de sementes de soja, incumbida de processar mais de R$ 50 milhões em vendas anuais. API REST construída utilizando C# , ASP.NET Core, SQL Server, arquitetura em camadas e testes unitários com xUnit.',
+      'Fui responsável pelo desenvolvimento de novas funcionalidades e manutenção de plataforma proprietária de gerenciamento e venda de sementes de soja, incumbida de processar mais de R$ 50 milhões em vendas anuais. API REST construída utilizando C# , ASP.NET Core, SQL Server, arquitetura em camadas e testes unitários com xUnit.',
       'Trabalhei no levantamento de requisitos, desenvolvimento e implantação do sistema em ambiente de produção.'
     ],
     skillsList: [
