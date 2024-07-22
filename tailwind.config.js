@@ -9,8 +9,8 @@ module.exports = {
     extend: {
       colors: {
         'text-color': '#000000',
-        'section-title': '#bd8d5b',
-        'section-border': '#f2dac0',
+        'section-title': '#0173bc',
+        'section-border': '#3d4c76',
       },
     },
   },
