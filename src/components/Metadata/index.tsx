@@ -8,32 +8,29 @@ const Metadata = () => {
     <Head>
       <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
 
-      <title>{`Samuel Oliveira - ${
-        idioma === 'portugues' ? 'Currículo' : 'Resume'
-      }`}</title>
+      <title>{`Moacyr Pinheiro - ${idioma === 'portugues' ? 'Currículo' : 'Resume'
+        }`}</title>
 
       <meta
-        content={`Samuel Oliveira - ${
-          idioma === 'portugues' ? 'Desenvolvedor de Software' : 'Software Developer'
-        }`}
+        content={`Moacyr Pinheiro - ${idioma === 'portugues' ? 'Desenvolvedor Fullstack' : 'Fullstack Developer'
+          }`}
         name="description"
       />
 
       <meta
         property="og:title"
-        content={`Samuel Oliveira - ${idioma === 'portugues' ? 'Currículo' : 'Resume'}`}
+        content={`Moacyr Pinheiro - ${idioma === 'portugues' ? 'Currículo' : 'Resume'}`}
       />
 
       <meta
         property="og:url"
-        content={`https://samuel4oliveira.github.io/curriculum/${
-          idioma === 'portugues' ? '' : 'english'
-        }`}
+        content={`https://moacyr007.github.io/curriculum/${idioma === 'portugues' ? '' : 'english'
+          }`}
       />
 
       <meta
         property="og:description"
-        content="O melhor lugar de Cuiabá para comprar bombons, ovos de páscoa, barras de chocolate e outros doces."
+        content="Moacyr Pinheiro Resume/Currículo"
       />
 
       <meta property="og:image:url" content="./favicon.svg" />

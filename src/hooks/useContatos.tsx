@@ -21,51 +21,51 @@ const contatos: Contato[] = [
         className="w-3.5 h-3.5 mb-1 -mr-1"
       />
     ),
-    title: 'Cuiabá, MT',
+    title: 'Florianópolis, SC',
   },
   {
     icon: (
       <img
         src="./mail-outline.svg"
-        alt="samuel oliveira email"
+        alt="moacyr pinheiro email"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'br.samuel.oliveira@gmail.com',
-    link: 'mailto: br.samuel.oliveira@gmail.com',
+    title: 'moacyr.moacyr11@gmail.com',
+    link: 'mailto: moacyr.moacyr11@gmail.com',
   },
   {
     icon: (
       <img
         src="./call-outline.svg"
-        alt="samuel oliveira telefone"
+        alt="moacyr pinheiro telefone"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: '(65) 99251-3151',
-    link: 'tel:+5565992513151',
+    title: '(48) 99208-5158',
+    link: 'tel:+5548992085158',
   },
   {
     icon: (
       <img
         src="./logo-linkedin.svg"
-        alt="samuel oliveira linkedin"
+        alt="moacyr pinheiro linkedin"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'samuel4oliveira',
-    link: 'https://www.linkedin.com/in/samuel4oliveira/',
+    title: 'moacyr-pinheiro',
+    link: 'https://www.linkedin.com/in/moacyr-pinheiro/',
   },
   {
     icon: (
       <img
         src="./logo-github.svg"
-        alt="samuel oliveira github"
+        alt="moacyr pinheiro github"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'samuel4oliveira',
-    link: 'https://github.com/samuel4oliveira/',
+    title: 'Moacyr007',
+    link: 'https://github.com/Moacyr007/',
   },
 ];
 
@@ -78,51 +78,51 @@ const contacts: Contato[] = [
         className="w-3.5 h-3.5 mb-1 -mr-1"
       />
     ),
-    title: 'Mato Grosso, Brazil',
+    title: 'Santa Catarina, Brazil',
   },
   {
     icon: (
       <img
         src="./mail-outline.svg"
-        alt="samuel oliveira email"
+        alt="moacyr pinheiro email"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'br.samuel.oliveira@gmail.com',
-    link: 'mailto: br.samuel.oliveira@gmail.com',
+    title: 'moacyr.moacyr11@gmail.com',
+    link: 'mailto: moacyr.moacyr11@gmail.com',
   },
   {
     icon: (
       <img
         src="./call-outline.svg"
-        alt="samuel oliveira telefone"
+        alt="moacyr pinheiro telefone"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: '+55 (65) 99251-3151',
-    link: 'tel:+5565992513151',
+    title: '+55 (48) 99208-5158',
+    link: 'tel:+5548992085158',
   },
   {
     icon: (
       <img
         src="./logo-linkedin.svg"
-        alt="samuel oliveira linkedin"
+        alt="moacyr pinheiro linkedin"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'samuel4oliveira',
-    link: 'https://www.linkedin.com/in/samuel4oliveira/',
+    title: 'moacyr-pinheiro',
+    link: 'https://www.linkedin.com/in/moacyr-pinheiro/',
   },
   {
     icon: (
       <img
         src="./logo-github.svg"
-        alt="samuel oliveira github"
+        alt="moacyr pinheiro github"
         className="w-3.5 h-3.5 mb-0.5"
       />
     ),
-    title: 'samuel4oliveira',
-    link: 'https://github.com/samuel4oliveira/',
+    title: 'Moacyr007',
+    link: 'https://github.com/Moacyr007/',
   },
 ];
 

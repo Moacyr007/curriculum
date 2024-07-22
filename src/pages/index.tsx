@@ -13,9 +13,9 @@ export default function Home() {
     <main className="w-full max-w-3xl p-8 mx-auto text-text-color print:pt-0">
       <div className="md:grid print:grid md:grid-cols-[80%,20%] print:grid-cols-[80%,20%]">
         <div>
-          <h1 className="text-3xl font-bold text-section-title">Samuel Oliveira</h1>
+          <h1 className="text-3xl font-bold text-section-title">Moacyr Pinheiro</h1>
           <h2 className="text-xl">
-            {idioma === 'portugues' ? 'Desenvolvedor de Software' : 'Software Developer'}
+            {idioma === 'portugues' ? 'Desenvolvedor Fullstack' : 'Fullstack Developer'}
           </h2>
 
           <Contato />
@@ -23,7 +23,7 @@ export default function Home() {
 
         <img
           className="h-28 w-auto object-cover rounded-full hidden md:block print:block"
-          src="./profile-picture.jpg"
+          src="./profile-picture.jpeg"
           alt="profile picture"
         />
       </div>
