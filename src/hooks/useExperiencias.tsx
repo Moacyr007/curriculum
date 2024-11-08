@@ -19,10 +19,10 @@ const experiencias: Experience[] = [
   {
     title: 'Desenvolvedor Fullstack',
     subTitle: 'Ibrowse Consultoria',
-    date: 'ago de 2023 - atualmente',
+    date: 'ago de 2023 - nov de 2024',
     location: 'Remoto',
     description: [
-      'Atualmente trabalhando com Java, Jsf, PrimeFaces , Spring e NHibernate.',
+      'Trabalhei nos projetos da ATI-TO com Java, Jsf, PrimeFaces , Spring e NHibernate.',
       'Trabalhei em correções urgentes e novas features em plataforma de gerenciamento para a SEDH(Secretaria de Estado de Direitos Humanos), utilizando .Net e Razor pages.',
       'Também atuei na evolução e sustentação de projetos da SUFRAMA (Superintendência da Zona Franca de Manaus), utilizando .Net e Angular.'
 
@@ -30,10 +30,13 @@ const experiencias: Experience[] = [
     skillsList: [
       '.Net',
       'C#',
-      'Enfity Framework',
+      'Asp Net Core',
+      'Entity Framework',
       'NHibernate',
+      'Razor Pages',
       'Java',
       'Spring',
+      'Java Server Faces',
       'Windows Server',
       'Git',
       'Postgres',
@@ -58,6 +61,8 @@ const experiencias: Experience[] = [
     skillsList: [
       '.Net',
       'C#',
+      'Asp.Net Core',
+      '.Net Framework',
       'Elasticsearch',
       'RabbitMQ',
       'XUnit',

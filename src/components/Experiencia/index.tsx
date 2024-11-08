@@ -60,6 +60,14 @@ const Experiencia = () => {
           </div>
         )
       )}
+
+
+      <h3 className="text-xl text-section-title font-medium border-b-[3px] border-section-border mb-2">
+        {idioma === 'portugues' ? 'Projeto' : 'About me'}
+      </h3>
+
+      <div>Também desenvolvi um sistema de Gestão de Confeitaria para suprir as necessidades de uma grande confeitaria de Cuiabá- MT com mais de 70mil clientes. O sistema permite gerenciar de forma integrada, os pedidos, funcionários e todo o processo de produção de bolos, doces e salgados. O sistema também conta com funcionalidades para cadastro de fichas técnicas, garantindo controle detalhado sobre os ingredientes e o custo de cada produto. Criado do zero utilizando .NET 8 e PostgreSQL, o sistema adota uma arquitetura monolítica com implementação do padrão CQRS. Além disso, o projeto está containerizado, facilitando a rápida implantação e escalabilidade.
+      </div>
     </section>
   );
 };

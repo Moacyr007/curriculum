@@ -12,7 +12,8 @@ const SobreMim = () => {
       </h3>
 
       <div>{sobreMim}</div>
-    </section>
+      <br />
+    </section >
   );
 };
 
