@@ -17,7 +17,7 @@ const useExperiencias = () => {
 
 const experiencias: Experience[] = [
   {
-    title: 'Desenvolvedor Fullstack',
+    title: 'Desenvolvedor Fullstack Sênior',
     subTitle: 'Ibrowse Consultoria',
     date: 'ago de 2023 - presente',
     location: 'Remoto',
@@ -100,7 +100,7 @@ const experiencias: Experience[] = [
 
 const experiences: Experience[] = [
   {
-    "title": "Fullstack Developer",
+    "title": "Senior Fullstack Developer",
     "subTitle": "Ibrowse Consultoria",
     "date": "Aug 2023 - Present",
     "location": "Remote",
