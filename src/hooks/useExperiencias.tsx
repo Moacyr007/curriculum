@@ -17,12 +17,12 @@ const useExperiencias = () => {
 
 const experiencias: Experience[] = [
   {
-    title: 'Desenvolvedor Fullstack',
+    title: 'Desenvolvedor Fullstack Sênior',
     subTitle: 'Ibrowse Consultoria',
     date: 'ago de 2023 - presente',
     location: 'Remoto',
     description: [
-      'Atualmente alocado no IBGE (Instituto Brasileiro de Geografia e Estatística) como Desenvolvedor .NET Fullstack Sênior desde novembro de 2024. Desenvolvimento e manutenção de aplicações utilizando .NET, Razor Pages, bancos de dados Oracle, arquitetura de microsserviços e monolitos, com forte atuação em visualização de dados geoespaciais, OpenLayers e jQuery.',
+      'Atualmente alocado no IBGE (Instituto Brasileiro de Geografia e Estatística) como Desenvolvedor .NET Fullstack Sênior desde novembro de 2024. Desenvolvimento e manutenção de aplicações utilizando .NET, bancos de dados Oracle, com forte atuação em tecnologias geoespaciais, OpenLayers e jQuery.',
       'Trabalhei nos projetos da ATI-TO com Java, Jsf, PrimeFaces , Spring e NHibernate.',
       'Trabalhei em correções urgentes e novas features em plataforma de gerenciamento para a SEDH(Secretaria de Estado de Direitos Humanos), utilizando .Net e Razor pages.',
       'Também atuei na evolução e sustentação de projetos da SUFRAMA (Superintendência da Zona Franca de Manaus), utilizando .Net e Angular.'
@@ -46,7 +46,6 @@ const experiencias: Experience[] = [
       'Microsserviços',
       'OpenLayers',
       'jQuery',
-      'Tecnologias Geoespaciais',
     ],
   },
   {
@@ -66,6 +65,7 @@ const experiencias: Experience[] = [
     skillsList: [
       '.Net',
       'C#',
+      "Razor Pages",
       'Asp.Net Core',
       '.Net Framework',
       'Elasticsearch',
@@ -100,12 +100,12 @@ const experiencias: Experience[] = [
 
 const experiences: Experience[] = [
   {
-    "title": "Fullstack Developer",
+    "title": "Senior Fullstack Developer",
     "subTitle": "Ibrowse Consultoria",
     "date": "Aug 2023 - Present",
     "location": "Remote",
     "description": [
-      "Currently allocated at IBGE (Brazilian Institute of Geography and Statistics) as a Senior .NET Fullstack Developer since November 2024. Working on the development and maintenance of applications using .NET, Razor Pages, Oracle databases, microservices architecture, and monoliths, with strong focus on geospatial data visualization using OpenLayers and jQuery.",
+      "Currently allocated at IBGE (Brazilian Institute of Geography and Statistics) as a Senior .NET Fullstack Developer since November 2024. Working on the development and maintenance of applications using .NET, Oracle databases, with strong involvement in geospatial technologies, OpenLayers, and jQuery.",
       "Worked with Java, JSF, PrimeFaces, Spring, and NHibernate on ATI-TO projects.",
       "Worked on urgent fixes and new features for a management platform for SEDH (State Department of Human Rights), using .NET and Razor Pages.",
       "Also involved in the development and maintenance of projects for SUFRAMA (Superintendence of the Manaus Free Trade Zone), using .NET and Angular."
@@ -126,7 +126,6 @@ const experiences: Experience[] = [
       "Microservices",
       "OpenLayers",
       "jQuery",
-      "Geospatial Technologies"
     ]
   },
 
