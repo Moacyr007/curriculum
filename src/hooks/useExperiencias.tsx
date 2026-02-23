@@ -19,9 +19,10 @@ const experiencias: Experience[] = [
   {
     title: 'Desenvolvedor Fullstack',
     subTitle: 'Ibrowse Consultoria',
-    date: 'ago de 2023 - nov de 2024',
+    date: 'ago de 2023 - presente',
     location: 'Remoto',
     description: [
+      'Atualmente alocado no IBGE (Instituto Brasileiro de Geografia e Estatística) como Desenvolvedor .NET Fullstack Sênior desde julho de 2025. Desenvolvimento e manutenção de aplicações utilizando .NET, bancos de dados Oracle, arquitetura de microsserviços e monolitos.',
       'Trabalhei nos projetos da ATI-TO com Java, Jsf, PrimeFaces , Spring e NHibernate.',
       'Trabalhei em correções urgentes e novas features em plataforma de gerenciamento para a SEDH(Secretaria de Estado de Direitos Humanos), utilizando .Net e Razor pages.',
       'Também atuei na evolução e sustentação de projetos da SUFRAMA (Superintendência da Zona Franca de Manaus), utilizando .Net e Angular.'
@@ -42,6 +43,7 @@ const experiencias: Experience[] = [
       'Postgres',
       'Oracle Database',
       'Microsoft SQL Server',
+      'Microsserviços',
     ],
   },
   {
@@ -100,7 +102,8 @@ const experiences: Experience[] = [
     "date": "Aug 2023 - Present",
     "location": "Remote",
     "description": [
-      "Currently working with Java, JSF, PrimeFaces, Spring, and NHibernate.",
+      "Currently allocated at IBGE (Brazilian Institute of Geography and Statistics) as a Senior .NET Fullstack Developer since July 2025. Working on the development and maintenance of applications using .NET, Oracle databases, microservices architecture, and monoliths.",
+      "Worked with Java, JSF, PrimeFaces, Spring, and NHibernate on ATI-TO projects.",
       "Worked on urgent fixes and new features for a management platform for SEDH (State Department of Human Rights), using .NET and Razor Pages.",
       "Also involved in the development and maintenance of projects for SUFRAMA (Superintendence of the Manaus Free Trade Zone), using .NET and Angular."
     ],
@@ -115,7 +118,8 @@ const experiences: Experience[] = [
       "Git",
       "PostgreSQL",
       "Oracle Database",
-      "Microsoft SQL Server"
+      "Microsoft SQL Server",
+      "Microservices"
     ]
   },
 
