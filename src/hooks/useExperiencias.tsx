@@ -23,6 +23,8 @@ const experiencias: Experience[] = [
     location: 'Remoto',
     description: [
       'Atualmente alocado no IBGE (Instituto Brasileiro de Geografia e Estatística) como Desenvolvedor .NET Fullstack Sênior desde novembro de 2024. Desenvolvimento e manutenção de aplicações utilizando .NET, Razor Pages, bancos de dados Oracle, arquitetura de microsserviços e monolitos, com forte atuação em visualização de dados geoespaciais, OpenLayers e jQuery.',
+      'Desenvolvi uma tela de visualização de informações geoespaciais com cobertura de todo o território nacional, permitindo a consulta e exibição de dados geográficos em diferentes escalas e regiões do país.',
+      'Implementei uma melhoria de performance que eliminou problemas de timeout em consultas de grandes áreas geográficas, utilizando cache de dados, streaming para o OpenLayers e processamento em lotes, resultando em uma experiência de usuário significativamente mais fluida e responsiva.',
       'Trabalhei nos projetos da ATI-TO com Java, Jsf, PrimeFaces , Spring e NHibernate.',
       'Trabalhei em correções urgentes e novas features em plataforma de gerenciamento para a SEDH(Secretaria de Estado de Direitos Humanos), utilizando .Net e Razor pages.',
       'Também atuei na evolução e sustentação de projetos da SUFRAMA (Superintendência da Zona Franca de Manaus), utilizando .Net e Angular.'
@@ -106,6 +108,8 @@ const experiences: Experience[] = [
     "location": "Remote",
     "description": [
       "Currently allocated at IBGE (Brazilian Institute of Geography and Statistics) as a Senior .NET Fullstack Developer since November 2024. Working on the development and maintenance of applications using .NET, Razor Pages, Oracle databases, microservices architecture, and monoliths, with strong focus on geospatial data visualization using OpenLayers and jQuery.",
+      "Developed a geospatial data visualization screen with nationwide coverage, enabling querying and displaying geographic data across different scales and regions of the country.",
+      "Implemented a performance improvement that eliminated timeout issues when querying large geographic areas, using data caching, streaming to OpenLayers, and batch processing, resulting in a significantly smoother and more responsive user experience.",
       "Worked with Java, JSF, PrimeFaces, Spring, and NHibernate on ATI-TO projects.",
       "Worked on urgent fixes and new features for a management platform for SEDH (State Department of Human Rights), using .NET and Razor Pages.",
       "Also involved in the development and maintenance of projects for SUFRAMA (Superintendence of the Manaus Free Trade Zone), using .NET and Angular."
